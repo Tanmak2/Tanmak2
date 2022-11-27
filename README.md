@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:495057,100:212529&height=250&text=Yun%20Jong%20Chan&fontColor=ffbb00&fontAlign=65&fontAlignY=35&desc=Tanmak2&descSize=30&descAlign=85)
+
 # Studying Skills
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -25,4 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true?theme=dark)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Tanmak2&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="s">
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true" width="41.5%" />
+</a>
+<a href="s">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" />
+</a>
