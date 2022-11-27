@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true" width="54%" />
 </a>
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" width="45.4%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" width="45.5%" />
 </a>
