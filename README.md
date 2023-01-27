@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmak2&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmak2&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true" width="49.5%" height="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true" width="54%" />
 </a>
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" width="49.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" width="45.5%" />
 </a>
