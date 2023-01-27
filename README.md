@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tanmak2&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true" width="54%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tanmak2&theme=dark&show_icons=true" width="53%" />
 </a>
 <a href="s">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" width="45.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmak2&exclude_repo=Tanmak2.github.io&layout=compact&theme=dark" width="46.5%" />
 </a>
