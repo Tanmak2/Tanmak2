@@ -2,15 +2,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTanmak2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 # My Skills
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C%23-00599C?style=flat-square&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-aaaaaa?style=flat-square&logo=unity&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=plastic&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=spring&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C%23-00599C?style=plastic&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-aaaaaa?style=plastic&logo=unity&logoColor=black"/></a>
 
 <!--
 **Tanmak2/Tanmak2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
